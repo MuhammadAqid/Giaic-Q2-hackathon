@@ -1,6 +1,5 @@
 import React from 'react'
 import Link from 'next/link'
-import Image from 'next/image'
 function footer() {
   return (
     <div className='tablet:max-w-[1200px] tablet:mx-auto md2:mt-10 mobile:mt-10 tablet:mt-[400px] tablet:border-t tablet:pt-10 tablet:flex tablet:flex-col tablet:gap-16  '>

@@ -1,12 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
-import {
-    Carousel,
-    CarouselContent,
-    CarouselItem,
-    CarouselNext,
-    CarouselPrevious,
-} from "@/components/ui/carousel"
 function room() {
     return (
         <div className='bg-[#FCF8F3] h-[80vh] flex items-center md2:h-auto md:justify-center'>

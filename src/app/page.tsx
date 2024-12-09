@@ -1,5 +1,4 @@
 "use client"
-import Image from "next/image";
 import Header from "./components/header/header";
 import Hero from "@/app/components/hero/hero"
 import Browse from "./components/browse/browse";
